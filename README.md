@@ -1,6 +1,6 @@
 # Saved Index
 
-A Claude plugin by Andrea Cadioli ([andreacadioli.com](https://andreacadioli.com)).
+A Claude plugin by Munkherdene (https://www.instagram.com/mgsmp4/).
 
 It turns your Instagram saved posts into a private visual board:
 
